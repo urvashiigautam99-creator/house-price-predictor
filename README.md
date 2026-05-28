@@ -5,7 +5,7 @@ A machine learning web app that predicts California house prices using Ridge Reg
 ## 🚀 Live Demo
 👉 [Click here to view the app](https://urvashi-house-price-predictorr.streamlit.app)
 
-## 🛠️ Tech Stack
+## 🛠️  Tech Stack
 - Python
 - scikit-learn
 - Streamlit
