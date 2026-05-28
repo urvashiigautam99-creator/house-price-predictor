@@ -18,9 +18,9 @@ A machine learning web app that predicts California house prices using Ridge Reg
 - RMSE: 0.74
 
 ## ⚙️ How to Run Locally
-pip install -r requirements.txt
-python model.py
-streamlit run app.py
+ pip install -r requirements.txt
+ python model.py
+ streamlit run app.py
 
 ## 📂 Dataset
 California Housing Dataset from scikit-learn
